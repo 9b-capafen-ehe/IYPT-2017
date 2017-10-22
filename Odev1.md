@@ -4,15 +4,19 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-B   | Hatice Fatma Sarıaslan | 506
+9-B   | Elif Ayyıldız | 552
+9-B   | Eda Nur Arslan |541
 
-#  (buraya proje başlığını yazınız)
+#  SUDA MUM (CANDLE IN WATER)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+  Bu deneyi yapmaktaki amacımız kaldırma kuvveti,ısı,sıcaklık ve yoğunluk konusunda daha gelişmiş bir bilgi birikimine sahip olmak ve projeyle Dünya'da Türkiye'yi ilk defa temsil etmektir.
+  Yanan mum deneyinde mum, su,cam fanus,çakmak kullandık ve 2 grupta deneyi gerçekleştirdik. İlk grubumuzda mumu yakmadan su dolu cam fanusa yerleştirdik ve yüksekliği kaydettik. 2. grubumuzda ise mumu yakıp su dolu cam fanusa yerleştirdik. Bunun sonucunda, ilk deneye kıyasla mumun daha çok yüzdüğünü saptadık. Bunun sebebi 2. deneye mumun eriyip yüzey alanının genişlemesiydi.Yüzey alanı genişleyince de yoğunluk azalıyordu. Formülle anlatmak gerekirse külte/hacim=yoğunluk olduğundan kütleyi sabit bırakıp hacmi artırırsak, yoğunluğu da böylelikle azaltmış oluruz. Bu yüzden de mum daha yüksekte yanacak.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+https://ortaogretimkimyası.tr.gg/ders3_4.htm
+https://wikipedia.org
+tr.khanacademy.org
 
  1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
  2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
